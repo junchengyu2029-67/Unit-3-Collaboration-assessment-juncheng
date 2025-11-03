@@ -42,9 +42,15 @@ Evergreen and aromatic,prine trees thrive in colder regions.
 You can use this simple **Javascript** function to identify a tree by its characteristics:
 
 
+``` js 
 function identify_tree(leafshape, region){
     if(**leaf_shape** == "needle" && region == "cold"){
             return "Pine Tree"
         } else if(**leaf_shape** == "broad" && region == "temperate"){
             return "Oak Tree"
-        } 
+        } else {
+            return "Unknown Tree"
+        }
+{
+**console**.log(identify_tree("needle", "cold"))
+```
