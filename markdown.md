@@ -32,7 +32,7 @@ Known for its strength and longevity, the oak is a symbol of endurance.
 ### Pine Tree
 **Scientific Name:** *Pinus*
 
-Evergreen and aromatic,prine trees thrive in colder regions.
+Evergreen and aromatic, pine trees thrive in colder regions.
 
 ![alt text](https://images.squarespace-cdn.com/content/v1/5982fa4fe58c62cb28091fa4/1569233367092-HTN9E2NOCLHMOVSPHOJ2/image-asset.jpeg)
 
